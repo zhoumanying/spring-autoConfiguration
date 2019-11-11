@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "com.sixstar",
+      "type": "com.sixstar.HelloProperties",
+      "sourceType": "com.sixstar.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.sixstar.name",
+      "type": "java.lang.String",
+      "sourceType": "com.sixstar.HelloProperties",
+      "defaultValue": "Alan"
+    }
+  ],
+  "hints": []
+}
